@@ -1,0 +1,484 @@
+Request method:	POST
+Request URI:	http://dummy.restapiexample.com/api/v1/create
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Shlok",
+    "salary": "345464",
+    "age": 76
+}
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:40 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:40 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 59
+X-Sol: pub_site
+Content-Length: 130
+
+{
+    "status": "success",
+    "data": {
+        "name": "Shlok",
+        "salary": "345464",
+        "age": 76,
+        "id": 3262
+    },
+    "message": "Successfully! Record has been added."
+}
+Request method:	GET
+Request URI:	http://dummy.restapiexample.com/api/v1/employee/3262
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:43 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:42 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,User-Agent,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 59
+X-Sol: pub_site
+Content-Length: 83
+
+{
+    "status": "success",
+    "data": null,
+    "message": "Successfully! Record has been fetched."
+}
+Request method:	DELETE
+Request URI:	http://dummy.restapiexample.com/api/v1/delete/3262
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:44 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:43 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 58
+X-Sol: pub_site
+Content-Length: 84
+
+{
+    "status": "success",
+    "data": "3262",
+    "message": "Successfully! Record has been deleted"
+}
+Request method:	POST
+Request URI:	http://dummy.restapiexample.com/api/v1/create
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Shri",
+    "salary": "364",
+    "age": 76
+}
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:45 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:45 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 59
+X-Sol: pub_site
+Content-Length: 126
+
+{
+    "status": "success",
+    "data": {
+        "name": "Shri",
+        "salary": "364",
+        "age": 76,
+        "id": 7035
+    },
+    "message": "Successfully! Record has been added."
+}
+Request method:	GET
+Request URI:	http://dummy.restapiexample.com/api/v1/employee/7035
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:46 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:46 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,User-Agent,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 59
+X-Sol: pub_site
+Content-Length: 83
+
+{
+    "status": "success",
+    "data": null,
+    "message": "Successfully! Record has been fetched."
+}
+Request method:	DELETE
+Request URI:	http://dummy.restapiexample.com/api/v1/delete/7035
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:48 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:47 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 59
+X-Sol: pub_site
+Content-Length: 84
+
+{
+    "status": "success",
+    "data": "7035",
+    "message": "Successfully! Record has been deleted"
+}
+Request method:	POST
+Request URI:	http://dummy.restapiexample.com/api/v1/create
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "OV",
+    "salary": "678574",
+    "age": 76
+}
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:49 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:48 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 58
+X-Sol: pub_site
+Content-Length: 127
+
+{
+    "status": "success",
+    "data": {
+        "name": "OV",
+        "salary": "678574",
+        "age": 76,
+        "id": 8840
+    },
+    "message": "Successfully! Record has been added."
+}
+Request method:	GET
+Request URI:	http://dummy.restapiexample.com/api/v1/employee/8840
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:50 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:50 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,User-Agent,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 58
+X-Sol: pub_site
+Content-Length: 83
+
+{
+    "status": "success",
+    "data": null,
+    "message": "Successfully! Record has been fetched."
+}
+Request method:	DELETE
+Request URI:	http://dummy.restapiexample.com/api/v1/delete/8840
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:52 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:51 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 57
+X-Sol: pub_site
+Content-Length: 84
+
+{
+    "status": "success",
+    "data": "8840",
+    "message": "Successfully! Record has been deleted"
+}
+Request method:	POST
+Request URI:	http://dummy.restapiexample.com/api/v1/create
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Ganesh",
+    "salary": "3757464",
+    "age": 76
+}
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:53 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:52 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 57
+X-Sol: pub_site
+Content-Length: 132
+
+{
+    "status": "success",
+    "data": {
+        "name": "Ganesh",
+        "salary": "3757464",
+        "age": 76,
+        "id": 5364
+    },
+    "message": "Successfully! Record has been added."
+}
+Request method:	GET
+Request URI:	http://dummy.restapiexample.com/api/v1/employee/5364
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:54 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:53 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,User-Agent,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 59
+X-Sol: pub_site
+Content-Length: 83
+
+{
+    "status": "success",
+    "data": null,
+    "message": "Successfully! Record has been fetched."
+}
+Request method:	DELETE
+Request URI:	http://dummy.restapiexample.com/api/v1/delete/5364
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache, private, max-age=31536000
+Content-Type: application/json
+Date: Sat, 01 Aug 2020 15:06:55 GMT
+Display: staticcontent_sol
+Expires: Sun, 01 Aug 2021 15:06:55 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: 
+Response: 200
+Server: nginx/1.16.0
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Origin
+X-Ezoic-Cdn: Miss
+X-Middleton-Display: staticcontent_sol
+X-Middleton-Response: 200
+X-Ratelimit-Limit: 60
+X-Ratelimit-Remaining: 57
+X-Sol: pub_site
+Content-Length: 84
+
+{
+    "status": "success",
+    "data": "5364",
+    "message": "Successfully! Record has been deleted"
+}
