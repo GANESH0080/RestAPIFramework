@@ -75,7 +75,7 @@ public class StepDefination extends Utils {
 		String nameis = js.get("data.name");
 		int IDis = js.get("data.id");
 		System.out.println("Added EMP Name is : " + nameis);
-		System.out.println("Added EMP Name is : " + IDis);
+		System.out.println("Added EMP ID is : " + IDis);
 		this.IDis = IDis;
 		System.out.println(this.IDis);
 
